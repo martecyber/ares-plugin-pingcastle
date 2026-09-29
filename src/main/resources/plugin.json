@@ -1,0 +1,10 @@
+{
+  "id": "pingcastle",
+  "version": "1.0.0-beta1",
+  "displayName": "PingCastle",
+  "vendor": "Mart\u00edn Romera",
+  "license": "Proprietary",
+  "description": "Import-only: parses PingCastle's Active Directory health-check HTML report into risk-rule detections.",
+  "sdkVersion": "1",
+  "icon": "/img/sources/pingcastle.png"
+}
